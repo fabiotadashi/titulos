@@ -1,0 +1,5 @@
+com/esb/titulos/TitulosApplication.class
+com/esb/titulos/util/LocalDateSerializer.class
+com/esb/titulos/model/Titulo.class
+com/esb/titulos/util/LocalDateDeserializer.class
+com/esb/titulos/controller/TituloController.class
